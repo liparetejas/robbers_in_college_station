@@ -85,26 +85,10 @@ Input:
 21 22 2
 
 Output:
-Distance of 1 from 1 is 0
-Distance of 2 from 1 is 1
-Distance of 3 from 1 is 2
-Distance of 4 from 1 is 3
-Distance of 5 from 1 is 4
 Distance of 6 from 1 is 6
-Distance of 7 from 1 is 5
 Distance of 8 from 1 is 4
 Distance of 9 from 1 is 3
-Distance of 10 from 1 is 2
-Distance of 11 from 1 is 1
-Distance of 12 from 1 is 3
-Distance of 13 from 1 is 3
-Distance of 14 from 1 is 5
 Distance of 15 from 1 is 6
-Distance of 16 from 1 is 6
-Distance of 17 from 1 is 2
-Distance of 18 from 1 is 4
-Distance of 19 from 1 is 5
-Distance of 20 from 1 is 4
-Distance of 21 from 1 is 2
-Distance of 22 from 1 is 2147483647
+Distance of 16 from 1 is 4
+Distance of 22 from 1 is 5
 */
